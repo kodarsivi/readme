@@ -180,7 +180,7 @@ npm install
 komutuyla projede gerekli npm paketlerini indirebilirsiniz.
 ardından
 ```bash
-npm run product
+npm run prod
 ```
 komuyuyla proje css ve js dosyalarını oluşturabilirsiniz.
 
